@@ -78,7 +78,7 @@
 
 .divbrick{
   background-image: url(../images/brickbg.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   min-height: 637px;
 }
@@ -226,7 +226,7 @@ p{
 
 .enquiry-div{
   background-image: url(../images/bg6.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   margin-top: 50px;
 
