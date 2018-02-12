@@ -9,7 +9,7 @@
   background-image: url(../images/banner.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: lavender;
+
 }
 
 
@@ -80,7 +80,7 @@
   background-image: url(../images/brickbg.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: lavender;
+
   height: 637px;
 }
 
@@ -229,7 +229,7 @@ p{
   background-image: url(../images/bg6.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: lavender;
+
   margin-top: 50px;
 
 }
