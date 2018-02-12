@@ -1,0 +1,27 @@
+@font-face {
+font-family: "sfbold";
+src: url("sfbold.otf");
+}
+
+@font-face {
+font-family: "SFProMedium";
+src: url("SFProMedium.otf");
+}
+@font-face {
+font-family: "avantgar";
+src: url("avgardn.ttf");
+}
+
+@font-face {
+font-family: "dancingscript";
+src: url("DancingScript.otf");
+}
+
+@font-face {
+font-family: "SFPro";
+src: url("SFPro.otf");
+}
+@font-face {
+font-family: "SFProHeavy";
+src: url("SF-Pro-Display-Heavy.otf");
+}
