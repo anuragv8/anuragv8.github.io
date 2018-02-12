@@ -80,8 +80,7 @@
   background-image: url(../images/brickbg.png);
   background-size: contain;
   background-repeat: no-repeat;
-
-  height: 637px;
+  min-height: 637px;
 }
 
 .monMethod{
@@ -229,7 +228,6 @@ p{
   background-image: url(../images/bg6.png);
   background-size: contain;
   background-repeat: no-repeat;
-
   margin-top: 50px;
 
 }
