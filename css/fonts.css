@@ -25,3 +25,13 @@ src: url("SFPro.otf");
 font-family: "SFProHeavy";
 src: url("SF-Pro-Display-Heavy.otf");
 }
+@font-face {
+font-family: "SFProLight";
+src: url("SF-Pro-Display-Light.otf");
+}
+
+
+@font-face {
+font-family: "SFProLight";
+src: url("roboto.black.ttf");
+}

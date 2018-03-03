@@ -1,0 +1,184 @@
+.sec1{
+  background-image: url(../images/pg2sec1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.tommake{
+font-family: "SFProLight";
+font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+}
+.learning{
+font-family: "dancingscript";
+font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+margin-left: 20px;
+}
+.ahappy{
+  font-family: "sfbold";
+  font-size: 62px;
+  color: #FFFFFF;
+  letter-spacing: -0.45px;
+  margin-left: 69px;
+}
+.forevery{
+  font-family: "SFPro";
+  font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+}
+.pg2Title{
+  position: absolute;
+ top: 27%;
+left: 37%;
+}
+.pg2Title > p{
+  line-height: 65px;
+  margin-bottom: 0px;
+}
+.pg2-sec2{
+  background-image: url(../images/pg2scec2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 1147px;
+  text-align: center;
+}
+.pg2sec2title{
+  width: 575px;
+  margin: 0 auto;
+  padding-top: 166px;
+}
+.pg2sec2title > p{
+  margin-bottom: 0px;
+  text-align: center;
+}
+.sec2-25{
+  font-family: "sfbold";
+  font-size: 88px;
+  color: #FFFFFF;
+  letter-spacing: 1.57px;
+  text-align: center;
+  line-height: 88px
+}
+.sec2-years{
+  font-family: "SFProMedium";
+  font-size: 38px;
+  color: #FFFFFF;
+  letter-spacing: 1.57px;
+  margin-bottom: 0px;
+  line-height: 38px;
+}
+.sec2-touching{
+  font-family: "sfbold";
+  font-size: 108px;
+  color: #FFFFFF;
+  letter-spacing: 1.57px;
+  line-height: 103px;
+  display: block;
+  line-height: 108px;
+}
+.sec2-lives{
+  font-family: "avantgar";
+  font-size: 108px;
+  color: #FFFFFF;
+  letter-spacing: 1.67px;
+  display: block;
+  line-height: 108px;
+}
+.sec2-text{
+  font-family: "SFPro";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  height: 428px;
+  width: 464px;
+  margin: 0 auto;
+  margin-top: 118px;
+  text-align: left;
+  line-height: 20px;
+}
+.founderimg{
+  height: 741px;
+  margin-top: 61px;
+  margin-bottom: 58px;
+}
+.founderTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 44px;
+margin-top: 124px;
+}
+
+.FounderText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 464px;
+}
+.divBarFou{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin-top: 28px;
+  margin-bottom: 38px;
+
+}
+
+.pg2-sec4{
+  background-image: url(../images/pg2bg3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 1101px;
+}
+.baandekLogo{
+  width: 105px;
+  height: 59px;
+  margin-left: -19px;
+}
+.baandekTitle{
+  font-family:  "sfbold";
+  font-size: 37px;
+  color: #1A1A1A;
+  letter-spacing: 1.97px;
+  width: 523px;
+  display: block;
+  margin-bottom: 0px;
+  line-height: 41px;
+}
+.baandekText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 523px;
+margin-top: 50px;
+margin-bottom: 0;
+}
+.readbaan{
+  margin-top: 68px;
+  display: block;
+}
+.pg2-sec4-cont{
+  margin-left: 37%;
+  padding-top: 221px;
+}
+.featArt{
+  font-size: 11px;
+color: #AE8C1C;
+letter-spacing: 0.3px;
+font-family: 'Roboto';
+display: block;
+margin-top: 45px;
+margin-bottom: 3px;
+}

@@ -1,0 +1,238 @@
+.sec1{
+  background-image: url(../images/pg6bg1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.tommake{
+font-family: "SFProLight";
+font-size: 43px;
+color: #FFFFFF;
+letter-spacing: -0.31px;
+line-height: 50px;
+width: 651px;
+margin-bottom: 0;
+}
+
+.ahappy{
+  font-family: "sfbold";
+  font-size: 43px;
+  color: #FFFFFF;
+  letter-spacing: -0.31px;
+  line-height: 50px;
+  width: 601px;
+}
+.divBarwhite{
+  height: 6px;
+  width: 39px;
+  background-color: #E2E2E2;
+  margin-top: 68px;
+  margin-bottom: 20px;
+}
+.maria{
+  font-family: "sfbold";
+  font-size: 23px;
+color: #FFFFFF;
+letter-spacing: 0.41px;
+line-height: 25px;
+}
+
+.pg2Title{
+  left: 13%;
+  position: absolute;
+  top: 25%;
+}
+.pg2Title > p{
+  margin-bottom: 0px;
+}
+.pg6-sec2{
+  width: 1280px;
+  margin-top: 87px;
+}
+.pg6-sec2-cont{
+width: 775px;
+margin: 0 auto;
+}
+
+.pg2sec2title > p{
+  margin-bottom: 0px;
+  text-align: center;
+}
+.sec2-text{
+  font-family: "SFPro";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 20px;
+}
+.sec2-text2{
+font-family: "SFProLight";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 20px;
+  margin-top: 30px;
+}
+.sec2-text3{
+  font-family: "SFPro";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 20px;
+  margin-top: 47px;
+}
+.featArt{
+font-family: "SFProLight";
+display: block;
+font-size: 16px;
+color: #B39607;
+margin-top: 20px;
+}
+
+.readbaan{
+  margin-top: 20px;
+  display: block;
+  padding-bottom: 75px;
+}
+.divBarwhite2{
+  height: 6px;
+  width: 43px;
+  background-color: #E2E2E2;
+  margin-top: 4px;
+  margin-bottom: 62px;
+}
+.divtile{
+  width: 800px;
+  margin-bottom: 48px;
+}
+.divimgTile{
+  position: relative;
+  display: inline-block;
+}
+.imgTile{
+  width: 254px;
+  height: 265px;
+  margin: 0;
+  padding: 0;
+  margin-right: 2px;
+  margin-bottom: 6px;
+}
+.baandekText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 780px;
+opacity: 0.9;
+background: #FFFFFF;
+padding: 60px 80px 53px 80px;
+}
+.tilecaption{
+  font-family: "SFProLight";
+  font-size: 16px;
+  color: #292929;
+}
+.captionDiv{
+  position: absolute;
+top: 180px;
+left: 0;
+width: 254px;
+text-align: center;
+}
+.founderimg{
+  height: 554px;
+  margin-top: 65px;
+  margin-bottom: 87px;
+}
+.founderTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 44px;
+margin: 0;
+margin-top: 78px;
+}
+.FounderText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 479px;
+}
+
+.divBarFou{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin-top: 9px;
+  margin-bottom: 33px;
+}
+
+.pg2-sec4{
+  background-image: url(../images/pg6bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 1388px;
+  padding-left: 79px;
+}
+.baandekTitle{
+  font-family:  "sfbold";
+  font-size: 37px;
+  color: #FFFFFF;
+  letter-spacing: 1.97px;
+  width: 316px;
+  display: block;
+}
+.pg2-sec4-cont{
+  padding-top: 116px;
+}
+
+.pg6-sec4{
+  background-image: url(../images/pg6bg3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 770px;
+}
+.divaccrwrap{
+  padding-left: 92px;
+  background: rgba(0,0,0,.54);
+  width: 601px;
+  float: right;
+  margin-right: 40px;
+  margin-top:107px;
+
+}
+.accrTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #FFFFFF;
+letter-spacing: 1.97px;
+margin: 0;
+margin-top: 93px;
+}
+.accrText{
+font-family: "SFPro";
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 417px;
+padding-bottom: 74px;
+}
+
+.divBaraccr{
+  height: 6px;
+  width: 43px;
+  background-color:#FFFFFF;
+  margin-top: 9px;
+  margin-bottom: 33px;
+}

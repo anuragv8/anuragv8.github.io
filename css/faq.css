@@ -1,0 +1,129 @@
+.sec1{
+  background-image: url(../images/pg4bg1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.tommake{
+font-family: "SFProLight";
+font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+display: block;
+}
+
+.ahappy{
+  font-family: "sfbold";
+  font-size: 62px;
+  color: #FFFFFF;
+  letter-spacing: -0.45px;
+
+}
+
+.pg2Title{
+  left: 12%;
+     position: absolute;
+     top: 35%;
+}
+.pg2Title > p{
+  line-height: 65px;
+  margin-bottom: 0px;
+}
+.pg2-sec2{
+  background-image: url(../images/pg4bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 1386px;
+
+}
+.tileWrap{
+  width: 941px;
+  margin: 0 auto;
+  padding-top: 51px;
+}
+.tilesLeft{
+  width: 543px;
+  display: inline-block;
+  float: left;
+
+}
+.tilesRight{
+  width: 390px;
+  display: inline-block;
+  float: right;
+
+}
+.sec2-text{
+  font-family: "SFPro";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  height: 428px;
+  width: 464px;
+  margin: 0 auto;
+  margin-top: 118px;
+  text-align: left;
+  line-height: 20px;
+}
+.tile{
+background: rgba(249,249,249,0.85);
+margin-bottom: 10px;
+}
+
+.tileTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 37px;
+}
+
+.tileText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 464px;
+}
+.divBarFou{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.tile1{
+  padding: 47px 82px 55px 81px;
+}
+.tile1 > .tileText{
+  width: 380px;
+}
+.tile2{
+  background: rgba(249,249,249,0.61);
+  padding: 61px 62px 58px 71px;
+}
+.tile2 > .tileText{
+  width: 420px;
+}
+.tile3{
+  padding: 100px 55px 80px 73px;
+}
+.tile3 > .tileText{
+  width: 399px;
+}
+.tile4{
+  padding: 70px 90px 112px 94px;
+}
+.tile4 > .tileText{
+  width: 206px;
+}
+.tile5{
+  padding: 75px 113px 85px 71px;
+}
+.tile5 > .tileText{
+  width: 206px;
+}

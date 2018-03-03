@@ -30,9 +30,8 @@
   top: 25%;
   left: 28%;
   color: white;
-
-
 }
+
 .bannr25{
   font-size: 88px;
   font-family: "sfbold";
@@ -85,7 +84,7 @@
 
 .monMethod{
   width: 775px;
-  height: 402px;
+  height: 416px;
   opacity: 0.83;
   background: #FFFFFF;
   position: relative;
@@ -222,13 +221,14 @@ p{
 }
 .gallery-btn{
   margin-top: 57px;
+  margin-bottom: 50px;
 }
 
 .enquiry-div{
   background-image: url(../images/bg6.png);
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 50px;
+
 
 }
 .enq-title{

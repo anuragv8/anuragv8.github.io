@@ -1,0 +1,170 @@
+.sec1{
+  background-image: url(../images/pg3bg1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.tommake{
+font-family: "SFProLight";
+font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+}
+.learning{
+font-family: "dancingscript";
+font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+margin-left: 20px;
+}
+.ahappy{
+  font-family: "sfbold";
+  font-size: 62px;
+  color: #FFFFFF;
+  letter-spacing: -0.45px;
+margin-left: 64px;
+  display: block;
+}
+.forevery{
+  font-family: "SFPro";
+  font-size: 62px;
+color: #FFFFFF;
+letter-spacing: -0.45px;
+line-height: 71px;
+display: block;
+}
+.pg3Title{
+  position: absolute;
+ top: 30%;
+  left: 8%;
+
+}
+.pg3Title > p{
+  line-height: 65px;
+  margin-bottom: 0px;
+}
+.pg3-sec2-cont{
+  width: 620px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 91px;
+
+}
+.pg3-sec2{
+  height: 1120px;
+}
+
+
+.sec2Title{
+font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 44px;
+width: 254px;
+}
+
+.tileText{
+font-family: "SFPro";
+font-size: 16px;
+color: #1B1B1B;
+letter-spacing: 0.27px;
+line-height: 19px;
+}
+.divBarFou{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 63px;
+}
+
+.pg3-sec3{
+  background-image: url(../images/pg3bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 735px;
+}
+.sec3-cont{
+  width: 391px;
+  padding-top: 195px;
+  margin-left: 12%;
+}
+.divBarPrg{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin-top: 15px;
+  margin-bottom: 37px;
+}
+.prgTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 44px;
+}
+
+.prgText{
+font-family: "SFPro";
+font-size: 16px;
+color: #393939;
+letter-spacing: 0.27px;
+line-height: 19px;
+margin-bottom: 0;
+}
+.readbaan{
+  margin-top: 27px;
+  display: block;
+}
+.pg2-sec4-cont{
+  margin-left: 37%;
+  padding-top: 221px;
+}
+.featArt{
+  font-size: 11px;
+color: #AE8C1C;
+letter-spacing: 0.3px;
+font-family: 'Roboto';
+display: block;
+margin-top: 45px;
+margin-bottom: 3px;
+}
+.tile{
+  width: 220px;
+  display: inline-block;
+  vertical-align: top;
+}
+.tileicon{
+  width: 100px;
+  height: 100px;
+
+}
+
+.tileTitle{
+  font-family:  "sfbold";
+  font-size: 24px;
+color: #393939;
+letter-spacing: 0.27px;
+margin-top: 55px;
+display: block;
+margin-bottom: 24px;
+}
+.iconleft{
+  margin-left: 48px;
+}
+.tileleft{
+  float: left;
+}
+.tileright{
+  float: right;
+}
+.tile3{
+  margin-top: 104px;
+}
+.tile4{
+  margin-top: 66px;
+}

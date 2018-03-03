@@ -1,0 +1,188 @@
+.sec1{
+  background-image: url(../images/pg6bg1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+.tommake{
+font-family: "SFProLight";
+font-size: 43px;
+color: #FFFFFF;
+letter-spacing: -0.31px;
+line-height: 50px;
+margin-bottom: 0;
+display: inline-block;
+}
+
+.ahappy{
+  font-family: "sfbold";
+  font-size: 43px;
+  color: #FFFFFF;
+  letter-spacing: -0.31px;
+  line-height: 50px;
+  display: inline-block;
+}
+
+.divBarwhite{
+  height: 6px;
+  width: 39px;
+  background-color: #E2E2E2;
+  margin-top: 68px;
+  margin-bottom: 20px;
+}
+.maria{
+  font-family: "sfbold";
+  font-size: 23px;
+color: #FFFFFF;
+letter-spacing: 0.41px;
+line-height: 25px;
+}
+
+.pg6-sec4{
+  background-image: url(../images/pg5bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 851px;
+  padding-top: 48px;
+}
+
+.divaccrwrap{
+  padding-left: 92px;
+  background: rgba(0,0,0,.54);
+  width: 775px;
+  margin: 0 auto;
+
+}
+.accrTitle{
+  font-family:  "sfbold";
+font-size: 37px;
+color: #FFFFFF;
+letter-spacing: 1.97px;
+margin: 0;
+margin-top: 93px;
+}
+.accrText{
+font-family: "SFPro";
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0.27px;
+line-height: 19px;
+width: 566px;
+padding-bottom: 74px;
+}
+
+.divBaraccr{
+  height: 6px;
+  width: 43px;
+  background-color:#FFFFFF;
+  margin-top: 18px;
+  margin-bottom: 34px;
+}
+.dash{
+  margin-right: 15px;
+}
+
+
+.pg2Title{
+  left: 13%;
+  position: absolute;
+  top: 25%;
+  width: 818px;
+}
+.pg2Title > p{
+  margin-bottom: 0px;
+}
+
+.pg3-sec2-cont{
+
+  width: 775px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 75px;
+
+}
+.pg3-sec2{
+  height: 1455px;
+}
+.tileWrap{
+  width: 620px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.sec2Title{
+font-family:  "sfbold";
+font-size: 37px;
+color: #1A1A1A;
+letter-spacing: 1.97px;
+line-height: 44px;
+width: 369px;
+}
+
+.tileText{
+font-family: "SFPro";
+font-size: 16px;
+color: #1B1B1B;
+letter-spacing: 0.27px;
+line-height: 19px;
+}
+.divBarFou{
+  height: 6px;
+  width: 43px;
+  background-color: #848484;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 63px;
+}
+.sec2-text{
+  font-family: "SFPro";
+  font-size: 16px;
+  color: #393939;
+  letter-spacing: 0.27px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 20px;
+  width: 775px;
+  margin-bottom: 66px;
+}
+.tile{
+  width: 220px;
+  display: inline-block;
+  vertical-align: top;
+}
+.tileicon{
+  width: 100px;
+  height: 100px;
+
+}
+
+.tileTitle{
+  font-family:  "sfbold";
+  font-size: 24px;
+color: #393939;
+letter-spacing: 0.27px;
+margin-top: 55px;
+display: block;
+margin-bottom: 24px;
+}
+.iconleft{
+  margin-left: 48px;
+}
+.tileleft{
+  float: left;
+}
+.tileright{
+  float: right;
+}
+.tile3{
+  margin-top: 104px;
+}
+.tile4{
+  margin-top: 66px;
+}
+.readbaan{
+  display: block;
+  margin: 0 auto;
+margin-top: 936px;
+  margin-bottom: 49px;
+}
