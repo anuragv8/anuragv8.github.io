@@ -4,7 +4,10 @@
     border-radius: 0;
 }
 
-
+.logo{
+  height: 57px;
+  width: 57px;
+}
 .div_top{
   background-image: url(../images/banner.png);
   background-size: contain;
@@ -148,7 +151,7 @@ padding-right: 105px;
 
 
 .navbar-default {
-  background-color: transparent;
+  background-color:rgba(0, 0, 0, 0.4);
   border-color: transparent;
   font-size: 11px;
 color: #FFFFFF;
@@ -194,7 +197,7 @@ font-family: "SFProHeavy";
   font-size: 11px;
 color: #FFFFFF;
 letter-spacing: 1.67px;
-  background-color: transparent;
+  background-color:rgba(0, 0, 0, 0.4);
   font-family: "SFProHeavy";
 }
 p{
